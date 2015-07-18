@@ -5,7 +5,7 @@ locale: en_US
 description: Describe your website here.
 logo: site-logo.png
 search: true
-url: github.com/quinasura/quinasura.github.io
+url: http://quinasura.github.io
 
 # Jekyll configuration
 
