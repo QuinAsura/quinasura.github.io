@@ -3,19 +3,20 @@ layout: post
 author: sibi_sank
 comments: true
 share: true
+excerpt: "Incorporating a little artificial intelligence"
 title: Playing around with A* to incorporate trajectory tracking
 tags: [Artificial-Intelligence, A_star,A*,Path-planning,trajectory-tracking]
 ---
 
 #Path planning
-*Need for path planning
-*Search methods
-*A_star is the king of search and heuristic
-*Links to videos showing the thing in action edx AI course by UC-Berkeley
+* Need for path planning
+* Search methods
+* A_star is the king of search and heuristic
+* Links to videos showing the thing in action edx AI course by UC-Berkeley
 
 #Kinematically feasible paths
-*code
-*weights assigned to nodes
+* code
+* weights assigned to nodes
 
 #Putting the entire thing together
 *Future plans we plan to make an entire swarm

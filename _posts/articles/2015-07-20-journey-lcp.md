@@ -4,6 +4,7 @@ title:
 categories: articles
 tags: [localization,contours,open-cv]
 comments: true
+excerpt: "Probing for the bot."
 share: true
 ---
 
@@ -109,5 +110,5 @@ double GoToGoal(Point goal){
             return (atan2(det,dot));
         }
 }
-{% highlight c++ %}
+{% endhighlight %}
 

@@ -4,6 +4,7 @@ author: sibi_sank
 title: Kinematics and Control
 tags: [differential-drive,differential-steering,learn-by-making,uni-cycle]
 comments: true
+excerpt: "Adding a little control theory into the mix."
 share: true
 ---
 
