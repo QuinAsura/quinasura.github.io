@@ -4,19 +4,28 @@ title:
 excerpt: "An archive of my official and online coursework"
 search_omit: false
 ---
-## Academics
+* Table of Contents
+{:toc}
+
+##Academics
 **Cumulative GPA:** *8.35/10*<br/>
 **GRE           :** *322/340*<br/>
 **TOEFL         :** *110/120*<br/>
 
-#### Computer Vision
+---
+<a name="CVN"></a> 
+
+##Computer Vision
 
 ######Online Coursework
 * **Introduction to Computer Vision** <br /><u>Queensland University of Technology</u> [<u>(QUT MOOC Honor Code Certificate</u>)]({{ site.url}}/assets/certificates/viprocessing_nwesternx.pdf)
 * **Introduction to Parallel Programming** <br />[(<u>Udacity Honor Code Certificate)</u>]({{ site.url}}/assets/certificates/viprocessing_nwesternx.pdf)
 * **Fundementals of Digital Image and Video Processing** <br /><u>Northwestern University</u>[<u>(Coursera Honor Code Certificate)</u>]({{ site.url}}/assets/certificates/viprocessing_nwesternx.pdf) 
 
-#### Control, Embedded Systems and Robotics
+---
+<a name="CER"></a> 
+
+##Control, Embedded Systems and Robotics
 
 ######Online Coursework
 * **Embedded Systems - Shape the World** <br /> <u>University of Austin,Texas</u>[<u>(Edx Verified Certificate)</u>]({{ site.url}}/assets/certificates/embedded_utx.pdf)
@@ -38,7 +47,10 @@ search_omit: false
 * **Measurement and Instrumentation** <u>EE2201</u>
 * **Electronics Devices and Circuits** <u>EE2203</u>
 
-####Signals and Systems
+---
+<a name="SAS"></a> 
+
+##Signals and Systems
 
 ######Credited Coursework
 * **Circuit Theory** <u>EE2151</u>
@@ -48,7 +60,10 @@ search_omit: false
 * **Tranmission and Distribution** <u>EE2303</u>
 * **Communication Engineering** <u>EC2311</u>
 
-#### Artificial Intelligence, Algorithms and Mathematics
+---
+<a name="AAM"></a>
+
+##Artificial Intelligence, Algorithms and Mathematics 
 
 ######Online Coursework
 * **Introduction to Computational Thinking and Data Science** <br /><u>MIT</u>[<u>(EDX Verified Certificate)</u>]({{ site.url}}/assets/certificates/prob_mitx.pdf)
@@ -63,7 +78,10 @@ search_omit: false
 * **Object Oriented Programming** <u>CS2312</u>
 * **Operating System** <u>CS2411</u>
 
-#### Humanities
+---
+<a name="HUM"></a> 
+
+##Humanities
 
 ######Online Coursework
 * **Model Thinking**  <br /><u>Michigan State University</u> [<u>(Coursera Honor Code Certificate)</u>]({{ site.url}}/assets/certificates/model_mtux.pdf)
