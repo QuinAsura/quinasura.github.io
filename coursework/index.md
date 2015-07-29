@@ -1,9 +1,11 @@
 ---
 layout: page
-title: 
+title: My Coursework 
 excerpt: "An archive of my official and online coursework"
 search_omit: false
 ---
+I am a complete `sucker` for online courses especially the ones with interesting problem sets. Balancing academics with online coursework was definitely worth the effort; My neural network as well as my projects have heavily influenced and shaped by them.
+
 * Table of Contents
 {:toc}
 
