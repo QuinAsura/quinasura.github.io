@@ -69,7 +69,7 @@ I am a complete `sucker` for online courses especially the ones with interesting
 
 ######Online Coursework
 * **Introduction to Computational Thinking and Data Science** <br /><u>MIT</u>[<u>(EDX Verified Certificate)</u>]({{ site.url}}/assets/certificates/prob_mitx.pdf)
-* **From Nand To Tetris** <br /><u>MIT</u>[<u>(Coursera Honorcode Certificate)</u>]({{ site.url}}/assets/certificates/nand2tetris_part1coursera.pdf)
+* **From Nand To Tetris** <br /><u>The Hebrew University of Jerusalem</u>[<u>(Coursera Honorcode Certificate)</u>]({{ site.url}}/assets/certificates/nand2tetris_part1coursera.pdf)
 * **Artificial Intelligence Planning** <br /><u>University of Edinburgh</u>  [<u>(Coursera Honor Code Certificate)</u>]({{ site.url}}/assets/certificates/aiplan_edinburgx.pdf)
 * **Machine Learning** <br /><u>Stanford University</u> [<u>(Coursera Honor Code Certificate)</u>]({{ site.url}}/assets/certificates/ml_stanfordx.pdf)
 * **Introduction to Computer Science and Programming Using Python** <br /><u>MIT</u> [<u>(EDX Verified Certificate)</u>]({{ site.url}}/assets/certificates/intro_mitx.pdf)
