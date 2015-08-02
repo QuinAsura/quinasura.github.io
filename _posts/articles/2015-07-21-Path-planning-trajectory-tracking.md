@@ -1,10 +1,10 @@
 ---
 layout: post
+title: Localization, Obstacle avoidance and Control [Part-3]
 author: sibi_sank
 comments: true
 share: true
 excerpt: "Incorporating a little artificial intelligence"
-title: Playing around with A* to incorporate trajectory tracking
 tags: [Artificial-Intelligence, A_star,A*,Path-planning,trajectory-tracking]
 ---
 
