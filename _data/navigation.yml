@@ -1,17 +1,15 @@
 # Site navigation links
 
-- title: About
+- title: Home
   url: /
 
 - title: CV
   url: /assets/cv.pdf
-- title: Projects
-  url: /projects
 
 - title: Posts
   url: /posts/
 
-- title: Publications 
+- title: Research 
   url: /publications/
 
 - title: Coursework
