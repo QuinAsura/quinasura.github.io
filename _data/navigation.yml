@@ -3,8 +3,10 @@
 - title: About
   url: /
 
+- title: CV
+  url: /assets/cv.pdf
 - title: Projects
-  url: /projects/
+  url: /projects
 
 - title: Posts
   url: /posts/
