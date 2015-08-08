@@ -6,7 +6,6 @@ search_omit: true
 image:
   feature: front_page.jpg
 ---
-I am an electrical engineering graduate from SSN College of Engineering. My fields of interest are computer `vision`, `control systems` and `robotics`.
 
 > “Study hard what interests you the most in the most undisciplined, irreverent and original manner possible” 
 
