@@ -17,5 +17,5 @@ learn. The pure romance of `modeling` a physical systems in its entirety,
 
 This site serves the purpose of re-organizing my thoughts and helps me blog to
 my heart's desire. To know more about me have a look at my
-[`resume`]({{site.url}}/assets/cv.pdf) or contact me at sibi dot vasank
+[`resume`]({{site.url}}/assets/cv.pdf) or ping me at sibi dot vasank
 @gmail.com.

@@ -9,3 +9,6 @@ Electrical engineering major
 plan on pursuing an MS in computer vision, control systems, AI and robotics
 ERF core member
 Silambam and gymnastics
+
+####Achievements
+
