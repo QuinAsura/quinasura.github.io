@@ -2,7 +2,7 @@
 
 title: Sibi Sankar
 locale: en_US
-description: The pure romance of modeling a physical systems in its entirety, realising it from scratch and orchestrating it to any desired eventuality through code gives me such a rush.
+description: Simple blog on computer vision, control and robotics.
 logo: site-logo.png
 search: true
 url: http://sibisankar.me
@@ -43,7 +43,7 @@ owner:
   tumblr: #username
   weibo: #userid
   google:
-    plus: #username
+    plus: SibiSankar
     analytics:
     verify:
     ad-client:
