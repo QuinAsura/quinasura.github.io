@@ -10,8 +10,10 @@ image:
 {:toc}
 
 ##Semi-Autonomous Control of Quadrotor
-`mentor`- *Prof. V.Kamaraj (HOD EEE/SSNCE)* , outcome of my final year project.<br/>
-`Team of two members`
+`mentor`- *Prof. V.Kamaraj (HOD EEE/SSNCE)* <br/>
+`Team Members: Sibi Sankar, Sanjay Shreedharan`
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Ulz9EfYzbyA" frameborder="0" allowfullscreen></iframe>
 
 * Responsible for implementation of the two-channel PID controller for roll and pitch control of a quadcopter
 on Spartan 3E FPGA using Matlab/Xilinx(ISE).
@@ -23,7 +25,14 @@ inertial measurement unit with the FPGA.
 
 ##Modelling and Feedback Linearization of Aero-Thrust Pendulum
 `mentor`- *Prof. M.Senthil Kumaran* (EEE/SSNCE)<br/>
-`Team of two members`
+`Sibi Sankar, Sanjay Shreedharan`
+
+<figure class="side">
+	<img src="/images/aero1.png" alt="image" style="width: 200px;float: centre;">
+        <img src="/images/aero2.jpeg" alt="image" style="width: 200px;float: centre;">
+	<img src="/images/aero3.jpeg" alt="image" style="width: 200px;float: centre;">
+        <figcaption>Hardware Implementation of the Aeropendulum Setup.</figcaption>
+</figure>
 
 * Responsible for implementation of the single-channel PID controller with anti-reset for aero-thrust pendulum
 on Spartan 3E FPGA using Matlab/Xilinx(ISE)
@@ -37,7 +46,7 @@ Matlab through Real time Windows target and aided in feedback-linearization of t
  
 ######(Localization, Obstacle avoidance , Control and Kinematic framework) 
 `mentor` - *Prof. M.Senthil Kumaran* (EEE/SSNCE)<br/>
-`Team of three members`
+`Sibi Sankar, Sanjay Shreedharan, Adithya S`
 
 * Implemented Localization and Pose estimation based on arbitrary defined color contours detection using
 OpenCV C++ library.
@@ -48,14 +57,14 @@ OpenCV C++ library.
 
 ##Magnetic Levitation System
 `mentor` - *Prof. M.Senthil Kumaran* (EEE/SSNCE)
-`Team of four members`
+`Sibi Sankar, Sanjay Shreedharan, Adithya S`
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DL33ijUAX18" frameborder="0" allowfullscreen></iframe>
 
 
 ---
 
 ##Quickbot using Beaglebone Black
-`Team of two members`
-
 * As a team of two, implemented the quickbot and responsible for design of the three amps regulator circuit
 using 7805 and callibrated the infrared proximity sensor.
 * Compiled from source the wifi driver rtl8192E firmware on the debian distribution of the Beaglebone
@@ -76,6 +85,8 @@ in adherence with Nyquist theorem and interrupt triggering of the entire game.
 ---
 
 ##Variegated Learner Anime Downloader(VLAD) using Wxpython
+
+![VLAD Load Episode window](http://i.imgur.com/eeJeeRU.png?1)
 
 * Responsible for the download link extraction algorithm and multi-threaded downloader implementation.
 * Implemented a GUI based data scraping, multithreaded downloader using WxPython for anime shows
