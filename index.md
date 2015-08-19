@@ -13,6 +13,6 @@ This quote by [`Richard
 Feynman`](https://en.wikipedia.org/wiki/Richard_Feynman), is primarily
 responsible for my quest for experiencing the `aha` moment in every concept I
 learn. The pure romance of `modeling` a physical systems in its entirety,
-`realising` it from scratch and  `orchestrating` it to any desired eventuality through `code` gives me such a rush. 
+`realising` it from scratch and  `orchestrating` it to any desired eventuality through `code` is my addiction. 
 
 

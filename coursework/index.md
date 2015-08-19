@@ -4,7 +4,9 @@ title: My Coursework
 excerpt: "An archive of my official and online coursework"
 search_omit: false
 ---
-I am a complete sucker for online courses especially the ones with interesting problem sets. Balancing academics with online coursework was definitely worth the effort.
+**Joi Ito** <br/>Director MIT Media Labs
+{: .pull-right}
+>Education is what other people do to me, learning is what you do to yourself.<br/>
 
 * Table of Contents
 {:toc}
@@ -15,7 +17,7 @@ I am a complete sucker for online courses especially the ones with interesting p
 **TOEFL         :** *110/120*<br/>
 
 ---
-<a name="CVN"></a> 
+
 
 ##Computer Vision
 
@@ -25,7 +27,7 @@ I am a complete sucker for online courses especially the ones with interesting p
 * **Fundementals of Digital Image and Video Processing** <br />[<u>Northwestern University</u><u>(Coursera Honor Code Certificate)</u>]({{ site.url}}/assets/certificates/viprocessing_nwesternx.pdf) 
 
 ---
-<a name="CER"></a> 
+ 
 
 ##Control, Embedded Systems and Robotics
 
@@ -50,7 +52,7 @@ I am a complete sucker for online courses especially the ones with interesting p
 * **Electronics Devices and Circuits** <u>EE2203</u>
 
 ---
-<a name="SAS"></a> 
+
 
 ##Signals and Systems
 
@@ -63,7 +65,7 @@ I am a complete sucker for online courses especially the ones with interesting p
 * **Communication Engineering** <u>EC2311</u>
 
 ---
-<a name="AAM"></a>
+
 
 ##Artificial Intelligence, Algorithms and Mathematics 
 
@@ -82,7 +84,7 @@ I am a complete sucker for online courses especially the ones with interesting p
 * **Operating System** <u>CS2411</u>
 
 ---
-<a name="HUM"></a> 
+ 
 
 ##Humanities
 
