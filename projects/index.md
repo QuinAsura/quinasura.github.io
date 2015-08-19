@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-excerpt: "My Publications"
+excerpt: "My Projects"
 modified: 2014-08-08T20:04:41.231140-04:00
 image:
   feature: front_page.jpg
