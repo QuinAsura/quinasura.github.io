@@ -13,7 +13,8 @@ I am also one of the core members of `Electrical Research Fraternity` (*ERF*). F
 
 I plan on pursuing an MS in `computer vision` with applications focused on control systems, AI, 3D-reconstruction and robotics.
 
-During my free time I usually blog, write python automation scripts, read *manga* and practise the ancient martial arts of Silambam. To know more about me have a look at my [`resume`]({{site.url}}/assets/cv.pdf) or ping me at sibi dot vasank @gmail.com.
+During my free time I usually blog, write python automation scripts, read
+*manga* and practise the ancient martial arts of `Silambam`. To know more about me have a look at my [`resume`]({{site.url}}/assets/cv.pdf) or ping me at sibi dot vasank @gmail.com.
 
 <a href="http://www.erfssn.org/our-achievements/" class="btn">ERF Achievements</a>
 <a href="{{site.url}}/assets/cv.pdf" class="btn">Resume</a>
