@@ -11,7 +11,7 @@ I worked under the guidance of [`Dr.M.Senthil Kumaran`](http://zentill.erfssn.or
 
 I am also one of the core members of [`Electrical Research Fraternity`](http://www.erfssn.org/our-achievements/). Follow the [link](http://www.erfssn.org/our-achievements/) to have a look at our achievements.
 
-I script in nearly in all computer languages but python and c++ remains close to my heart because one has the shortest prototyping time and the other has the highest performance.
+I script in nearly in all computer languages but python and c++ remains close to my heart because one has the shortest prototyping time and the other oozes performance.
 
 During my free time I usually blog, read *manga* or practise [`Silambam`](https://en.wikipedia.org/wiki/Silambam). To know more about me have a look at my [`resume`]({{site.url}}/assets/cv.pdf) or ping me at sibi dot vasank @gmail.com.
 
