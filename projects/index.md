@@ -60,7 +60,20 @@ OpenCV C++ library.
 `Sibi Sankar, Sanjay Shreedharan, Adithya S`
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DL33ijUAX18" frameborder="0" allowfullscreen></iframe>
+* Designed a Prototype of Magnetic Levitation System.
+* Implemented Hysteresis Control to achieve magnetic levitation using Spartan 3E FPGA and Arduino.
 
+---
+
+##Digital Painter
+`mentor` - *Prof. M.Senthil Kumaran* (EEE/SSNCE)
+`Adithya S, Sibi Sankar, Sanjay Shreedharan`
+<img src="/images/output.gif" alt="image" style="width: 400px; float: centre;">
+
+* Implemented mathematical functions on Spartan 3E FPGA and used PWM technique to display basic shapes in a DSO.
+* Developed a technique to display any given image in a DSO with the help of image processing and python.
+
+Checkout the blog post about this project [here](https://adithyaselv.quora.com/Engineering-Art-and-Python-Connecting-the-Dots)
 
 ---
 
