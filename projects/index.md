@@ -68,7 +68,7 @@ OpenCV C++ library.
 ##Digital Painter
 `mentor` - *Prof. M.Senthil Kumaran* (EEE/SSNCE)
 `Adithya S, Sibi Sankar, Sanjay Shreedharan`
-<img src="/images/output.gif" alt="image" style="width: 400px; float: centre;">
+<img src="/images/dsoart.gif" alt="image" style="width: 400px; float: centre;">
 
 * Implemented mathematical functions on Spartan 3E FPGA and used PWM technique to display basic shapes in a DSO.
 * Developed a technique to display any given image in a DSO with the help of image processing and python.
