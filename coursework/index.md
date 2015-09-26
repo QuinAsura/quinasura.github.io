@@ -4,12 +4,15 @@ title: My Coursework
 excerpt: "An archive of my official and online coursework"
 search_omit: false
 ---
-**Joi Ito** <br/>Director MIT Media Labs
-{: .pull-right}
->Education is what other people do to me, learning is what you do to yourself.<br/>
-
 * Table of Contents
 {:toc}
+
+
+>Education is what other people do to me, learning is what you do to yourself.>
+
+**Joi Ito** <br/>Director MIT Media Labs
+{: .pull-right}
+---
 
 ##Academics
 **Cumulative GPA:** *8.35/10*<br/>
