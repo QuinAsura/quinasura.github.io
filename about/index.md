@@ -8,6 +8,8 @@ modified: 2014-08-08T20:04:41.231140-04:00
 I have completed my undergrad at SSN College of Engineering `(2011-2015)`
 majoring in  **Electrical and Electronics**.
 
+My research interests are **computer vision**, **control systems**, **3D-reconstruction**, **machine learning** and **swarm robotics**.
+
 I worked under the guidance of [`Dr.M.Senthil Kumaran`](http://zentill.erfssn.org/) in his kickass lab at SSNCE where I had the leeway to explore and pursue my interests. 
 
 I am also one of the core members of [`Electrical Research Fraternity`](http://www.erfssn.org/our-achievements/). Follow the [link](http://www.erfssn.org/our-achievements/) to have a look at our achievements.
