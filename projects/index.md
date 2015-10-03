@@ -4,13 +4,12 @@ title: Projects
 excerpt: "My Projects"
 modified: 2014-08-08T20:04:41.231140-04:00
 image:
-  feature: front_page.jpg
+  feature: dual_bot.jpg
 ---
 * Table of Contents
 {:toc}
 
 ##Semi-Autonomous Control of Quadrotor
-`mentor`- *Prof. V.Kamaraj (HOD EEE/SSNCE)* <br/>
 `Team Members: Sibi Sankar, Sanjay Shreedharan`
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/Ulz9EfYzbyA" frameborder="0" allowfullscreen></iframe>

@@ -8,7 +8,7 @@ search_omit: false
 {:toc}
 
 
->Education is what other people do to me, learning is what you do to yourself.>
+>Education is what other people do to me, learning is what you do to yourself.
 
 **Joi Ito** <br/>Director MIT Media Labs
 {: .pull-right}
