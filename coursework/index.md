@@ -3,15 +3,12 @@ layout: page
 title: My Coursework 
 excerpt: "An archive of my official and online coursework"
 search_omit: false
+image:
+  feature: fpga.jpg
 ---
 * Table of Contents
 {:toc}
 
-
->Education is what other people do to me, learning is what you do to yourself.
-
-**Joi Ito** <br/>Director MIT Media Labs
-{: .pull-right}
 ---
 
 ##Academics

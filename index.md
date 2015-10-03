@@ -2,7 +2,7 @@
 layout: mainpage
 title: 
 excerpt: "A simple and clean responsive Jekyll theme for words and photos."
-search_omit: true
+search_omit: false
 image:
   feature: front_page.jpg
 ---

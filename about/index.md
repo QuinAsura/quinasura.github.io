@@ -1,9 +1,15 @@
 ---
 layout: page
-title: About
+title: About Me
 excerpt: "About me"
+search_omit: false
 modified: 2014-08-08T20:04:41.231140-04:00
 ---
+
+
+	
+>Education is what other people do to me, learning is what you do to yourself.<br/>
+> -- <cite>Joi Ito</cite>
 
 I have completed my undergrad at SSN College of Engineering `(2011-2015)`
 majoring in  **Electrical and Electronics**.
