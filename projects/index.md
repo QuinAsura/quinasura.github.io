@@ -10,6 +10,17 @@ image:
 * Table of Contents
 {:toc}
 
+##Omni-Presence
+`Team Members: Saipraveen Durairaman, Sibi Sankar, Vijayenthiran`
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bha4GeMLiIQ" frameborder="0" allowfullscreen></iframe>
+
+* Constructed a omni-directional modular robotics platform designed and implemented using rapid proto- typing techniques.
+* Gesture Based Manual Control of the robot was established using RGBD camera though hand detection and tracking (Nite 2.0) (Open Ni 2.2).
+* Head Tracking for Virtual Reality was achieved using on-board sensors on the phone to control the stepper-motor on the omnipresence robot.
+
+---
+
 ##Semi-Autonomous Control of Quadrotor
 `Team Members: Sibi Sankar, Sanjay Shreedharan`
 
@@ -29,8 +40,9 @@ inertial measurement unit with the FPGA.
 
 <figure class="side">
 	<img src="/images/aero1.png" alt="image" style="width: 200px;float: centre;">
-        <img src="/images/aero2.jpeg" alt="image" style="width: 200px;float: centre;">
-	<img src="/images/aero3.jpeg" alt="image" style="width: 200px;float: centre;">
+    <img src="/images/aero3.jpeg" alt="image" style="width: 200px;float: centre;">
+	
+<img src="/images/atp.gif" alt="image" style="width: 200px; float: centre;">
         <figcaption>Hardware Implementation of the Aeropendulum Setup.</figcaption>
 </figure>
 
@@ -47,6 +59,8 @@ Matlab through Real time Windows target and aided in feedback-linearization of t
 ######(Localization, Obstacle avoidance , Control and Kinematic framework) 
 `mentor` - *Prof. M.Senthil Kumaran* (EEE/SSNCE)<br/>
 `Sibi Sankar, Sanjay Shreedharan, Adithya S`
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1ySnonQtAqg" frameborder="0" allowfullscreen></iframe>
 
 * Implemented Localization and Pose estimation based on arbitrary defined color contours detection using
 OpenCV C++ library.
@@ -68,7 +82,7 @@ OpenCV C++ library.
 ##Digital Painter
 `mentor` - *Prof. M.Senthil Kumaran* (EEE/SSNCE)
 `Adithya S, Sibi Sankar, Sanjay Shreedharan`
-<img src="/images/dsoart.gif" alt="image" style="width: 400px; float: centre;">
+<img src="/images/dsoart.gif" alt="image" style="width: 800px; float: centre;">
 
 * Implemented mathematical functions on Spartan 3E FPGA and used PWM technique to display basic shapes in a DSO.
 * Developed a technique to display any given image in a DSO with the help of image processing and python.
@@ -97,7 +111,7 @@ in adherence with Nyquist theorem and interrupt triggering of the entire game.
 
 ---
 
-##Variegated Learner Anime Downloader(VLAD) using Wxpython
+##VL Anime Downloader (VLAD) using Wxpython
 
 ![VLAD Load Episode window](http://i.imgur.com/eeJeeRU.png?1)
 
