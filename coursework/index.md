@@ -11,7 +11,7 @@ image:
 
 ---
 
-##Academics
+## Academics
 **Cumulative GPA:** *8.35/10*<br/>
 **GRE           :** *322/340*<br/>
 **TOEFL         :** *110/120*<br/>
@@ -19,9 +19,9 @@ image:
 ---
 
 
-##Computer Vision
+## Computer Vision
 
-######Online Coursework
+###### Online Coursework
 * **Introduction to Computer Vision** <br /> [<u>Queensland University of Technology</u><u>(QUT MOOC Honor Code Certificate</u>)]({{ site.url}}/assets/certificates/introV_qut.pdf)
 * **Introduction to Parallel Programming** <br />[(<u>Udacity Honor Code Certificate)</u>]({{ site.url}}/assets/certificates/viprocessing_nwesternx.pdf)
 * **Fundementals of Digital Image and Video Processing** <br />[<u>Northwestern University</u><u>(Coursera Honor Code Certificate)</u>]({{ site.url}}/assets/certificates/viprocessing_nwesternx.pdf) 
@@ -29,9 +29,9 @@ image:
 ---
  
 
-##Control, Embedded Systems and Robotics
+## Control, Embedded Systems and Robotics
 
-######Online Coursework
+###### Online Coursework
 * **Embedded Systems - Shape the World** <br /> [<u>University of Austin,Texas</u><u>(Edx Verified Certificate)</u>]({{ site.url}}/assets/certificates/embedded_utx.pdf)
 * **Autonomous Mobile Robots**<br /> [<u>ETH Zurich</u><u>(Edx Honor Code Certificate)</u>]({{ site.url}}/assets/certificates/amr_ethx.pdf)
 * **Autonomous Navigation for Flying Robots**<br />[<u>Technische Universität München (TUM)</u> <u>(Edx Honor Code Certificate)</u>]({{ site.url}}/assets/certificates/autonav_tumx.pdf)
@@ -39,7 +39,7 @@ image:
 * **Introduction to Power Electronics** <br /> [<u>University of Colarado Boulder</u><u>(Coursera Honor Code Certificate)</u>]({{ site.url}}/assets/certificates/pe_boulderx.pdf)
 * **Robot Mechanics and Control, Part I** <br /> [<u>Seoul National University</u><u>(Coursera Honor Code Certificate)</u>]({{ site.url}}/assets/certificates/robotics_seoulx.pdf)
 
-######Credited Coursework
+###### Credited Coursework
 * **Solid State Drives** <u>EE2352</u>
 * **Microprocessors and Microcontroller** <u>EE2354</u>
 * **Power Electronics** <u>EE2301</u>
@@ -54,9 +54,9 @@ image:
 ---
 
 
-##Signals and Systems
+## Signals and Systems
 
-######Credited Coursework
+###### Credited Coursework
 * **Circuit Theory** <u>EE2151</u>
 * **Electromagnetic Theory** <u>EE2202</u>
 * **Power System Analysis** <u>EE2351</u>
@@ -67,16 +67,16 @@ image:
 ---
 
 
-##Artificial Intelligence, Algorithms and Mathematics 
+## Artificial Intelligence, Algorithms and Mathematics 
 
-######Online Coursework
+###### Online Coursework
 * **Introduction to Computational Thinking and Data Science** <br />[<u>MIT</u><u>(EDX Verified Certificate)</u>]({{ site.url}}/assets/certificates/prob_mitx.pdf)
 * **From Nand To Tetris** <br />[<u>The Hebrew University of Jerusalem</u><u>(Coursera Honorcode Certificate)</u>]({{ site.url}}/assets/certificates/nand2tetris_part1coursera.pdf)
 * **Artificial Intelligence Planning** <br />  [<u>University of Edinburgh</u><u>(Coursera Honor Code Certificate)</u>]({{ site.url}}/assets/certificates/aiplan_edinburgx.pdf)
 * **Machine Learning** <br />[<u>Stanford University</u> <u>(Coursera Honor Code Certificate)</u>]({{ site.url}}/assets/certificates/ml_stanfordx.pdf)
 * **Introduction to Computer Science and Programming Using Python** <br />[<u>MIT</u><u>(EDX Verified Certificate)</u>]({{ site.url}}/assets/certificates/intro_mitx.pdf)
 
-######Credited Coursework
+###### Credited Coursework
 * **Data Structures and Algorithm** <u>EE2204</u>
 * **Transforms and Partial Differential Equations** <u>MA2211</u>
 * **Computer Networks** <u>CS2363</u>
@@ -86,12 +86,12 @@ image:
 ---
  
 
-##Humanities
+## Humanities
 
-######Online Coursework
+###### Online Coursework
 * **Model Thinking**  <br />[<u>Michigan State University</u> <u>(Coursera Honor Code Certificate)</u>]({{ site.url}}/assets/certificates/model_mtux.pdf)
 * **Critical Thinking in Global Challenges**  <br /> [<u>University of Edinburgh</u><u>(Coursera Honor Code Certificate)</u>]({{ site.url}}/assets/certificates/critical_edinburgx.pdf)
 
-######Credited Coursework
+###### Credited Coursework
 * **Presentation Skills and Technical Seminar** <u>EE2357</u>
 * **Professional Ethics in Engineering** <u>GE2025</u>

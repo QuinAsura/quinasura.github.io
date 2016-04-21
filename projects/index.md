@@ -10,7 +10,7 @@ image:
 * Table of Contents
 {:toc}
 
-##Omni-Presence
+## Omni-Presence
 `Team Members: Saipraveen Durairaman, Sibi Sankar, Vijayenthiran`
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bha4GeMLiIQ" frameborder="0" allowfullscreen></iframe>
@@ -21,7 +21,7 @@ image:
 
 ---
 
-##Semi-Autonomous Control of Quadrotor
+## Semi-Autonomous Control of Quadrotor
 `Team Members: Sibi Sankar, Sanjay Shreedharan`
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/Ulz9EfYzbyA" frameborder="0" allowfullscreen></iframe>
@@ -34,7 +34,7 @@ inertial measurement unit with the FPGA.
  
 ---
 
-##Modelling and Feedback Linearization of Aero-Thrust Pendulum
+## Modelling and Feedback Linearization of Aero-Thrust Pendulum
 `mentor`- *Prof. M.Senthil Kumaran* (EEE/SSNCE)<br/>
 `Sibi Sankar, Sanjay Shreedharan`
 
@@ -54,9 +54,9 @@ Matlab through Real time Windows target and aided in feedback-linearization of t
 
 ---
 
-##LOCK
+## LOCK
  
-######(Localization, Obstacle avoidance , Control and Kinematic framework) 
+###### (Localization, Obstacle avoidance , Control and Kinematic framework) 
 `mentor` - *Prof. M.Senthil Kumaran* (EEE/SSNCE)<br/>
 `Sibi Sankar, Sanjay Shreedharan, Adithya S`
 
@@ -69,7 +69,7 @@ OpenCV C++ library.
 
 ---
 
-##Magnetic Levitation System
+## Magnetic Levitation System
 `mentor` - *Prof. M.Senthil Kumaran* (EEE/SSNCE)
 `Sibi Sankar, Sanjay Shreedharan, Adithya S`
 
@@ -79,7 +79,7 @@ OpenCV C++ library.
 
 ---
 
-##Digital Painter
+## Digital Painter
 `mentor` - *Prof. M.Senthil Kumaran* (EEE/SSNCE)
 `Adithya S, Sibi Sankar, Sanjay Shreedharan`
 <img src="/images/dsoart.gif" alt="image" style="width: 800px; float: centre;">
@@ -91,7 +91,7 @@ Checkout the blog post about this project [here](https://adithyaselv.quora.com/E
 
 ---
 
-##Quickbot using Beaglebone Black
+## Quickbot using Beaglebone Black
 * As a team of two, implemented the quickbot and responsible for design of the three amps regulator circuit
 using 7805 and callibrated the infrared proximity sensor.
 * Compiled from source the wifi driver rtl8192E firmware on the debian distribution of the Beaglebone
@@ -101,7 +101,7 @@ various behaviour models.
 
 ---
 
-##Space Invaders Game using TM4C123G
+## Space Invaders Game using TM4C123G
 
 * Interfaced the cortex-M4 processor with the Nokia 5110 LCD display used to display the graphics required
 for the game.
@@ -111,7 +111,7 @@ in adherence with Nyquist theorem and interrupt triggering of the entire game.
 
 ---
 
-##VL Anime Downloader (VLAD) using Wxpython
+## VL Anime Downloader (VLAD) using Wxpython
 
 ![VLAD Load Episode window](http://i.imgur.com/eeJeeRU.png?1)
 

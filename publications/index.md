@@ -8,7 +8,7 @@ modified: 2014-08-08T20:04:41.231140-04:00
 * Table of Contents
 {:toc}
 
-##Feedback Linearization and PID Control of Aero Thrust Pendulum using FPGA.
+## Feedback Linearization and PID Control of Aero Thrust Pendulum using FPGA.
 
 >[Aust. J. Basic & Appl.Sci, 2014, pp.466,472, Dec.](http://ajbasweb.com/old/ajbas/2014/December/466-472.pdf)
 
@@ -27,7 +27,7 @@ Keywords - MATLAB – System Generator; FPGA-Serial; Aero Thrust pendulum; FPGA-
 {:.notice}
 ---
 
-##Reinforcement learning for optimal energy management of a solar microgrid.
+## Reinforcement learning for optimal energy management of a solar microgrid.
 
 >[Global Humanitarian Technology Conference - South Asia Satellite (GHTC-SAS), 2014 IEEE vol., no., pp.183,188, 26-27 Sept](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6967580)
 
@@ -40,7 +40,7 @@ Keywords - Optimization; Q-learning; Reinforcement learning; Solar microgrid.
 {:.notice}
 ---
 
-##Distributed Optimization of Solar Micro-grid Using Multi Agent Reinforcement Learning.
+## Distributed Optimization of Solar Micro-grid Using Multi Agent Reinforcement Learning.
 
 >[Leo Raju, Sibi Sankar, R.S. Milton, Procedia Computer Science, Volume 46, 2015, Pages 231-239, ISSN 1877-0509](http://www.sciencedirect.com/science/article/pii/S1877050915000800)
 
