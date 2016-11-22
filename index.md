@@ -7,6 +7,8 @@ image:
   feature: front_page.jpg
 ---
 
+<center><a href="/assets/cv.pdf" download="sibis.pdf" class="btn">Download CV</a></center>
+
 >Education is what other people do to me, learning is what you do to yourself.<br/>
 > -- <cite>Joi Ito</cite>
 
@@ -28,8 +30,10 @@ Under Senthil Sir's Guidance we had the leeway to work on some rad prototypes. A
 
 ## @Co-Founder ChennaiMakerSpace
 <figure>
+<a href="http://www.indianweb2.com/2016/11/22/best-makers-paces-in-india/"><img src="/images/make-0_1.jpg" alt="image"></a>
+<figcaption>Chennai Makerspace was featured as one of the top 20 Makerspaces in India.</figcaption>
 <a href="http://www.thebetterindia.com/53681/10-makerspaces-build-innovate-invent/"><img src="/images/make-0.jpg" alt="image"></a>
-<figcaption>Chennai Makerspace was listed as one the best places to innovate in India.</figcaption>
+<figcaption>Chennai Makerspace was featured as one the best places to innovate in India.</figcaption>
 </figure>
 <figure class="third">
 <img src="/images/make-3.jpg" alt="image">
