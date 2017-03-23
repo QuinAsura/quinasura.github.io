@@ -13,8 +13,6 @@ image:
 
 ## Academics
 **Cumulative GPA:** *8.35/10*<br/>
-**GRE           :** *322/340*<br/>
-**TOEFL         :** *110/120*<br/>
 
 ---
 
