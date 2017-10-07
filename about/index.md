@@ -18,8 +18,6 @@ eventuality through **code** is my addiction.
 I have completed my undergrad at SSN College of Engineering `(2011-2015)`
 majoring in  **Electrical and Electronics** and currently a Embedded Bluetooth Engineer at Visteon Chennai.
 
-My research interests are **computer vision**, **control systems**, **deep learning** and **swarm robotics**. Apart from R&D I love product developement and would love to do a startup in the future.
-
 I worked under the guidance of [`Dr.M.Senthil Kumaran`](http://zentill.erfssn.org/) in his kickass lab at SSNCE where I had the leeway to explore and pursue my interests. 
 
 I am also one of the core members of [`Electrical Research Fraternity`](http://www.erfssn.org/our-achievements/). Follow the [link](http://www.erfssn.org/our-achievements/) to have a look at our achievements.
