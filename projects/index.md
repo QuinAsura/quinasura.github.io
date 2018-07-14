@@ -117,7 +117,7 @@ Checkout the blog post about this project [here](https://adithyaselv.quora.com/E
 
 ## VL Anime Downloader (VLAD) using Wxpython
 
-![VLAD Load Episode window](http://i.imgur.com/eeJeeRU.png?1)
+![VLAD Load Episode window](https://i.imgur.com/eeJeeRU.png?1)
 
 * Responsible for the download link extraction algorithm and multi-threaded downloader implementation.
 * Implemented a GUI based data scraping, multithreaded downloader using WxPython for anime shows

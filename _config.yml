@@ -5,7 +5,7 @@ locale: en_US
 description: Simple blog on computer vision, control and robotics.
 logo: bio-photo.jpg
 search: true
-url: http://sibisankar.me
+url: //sibisankar.me
 
 # Jekyll configuration
 
