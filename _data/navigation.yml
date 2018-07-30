@@ -1,22 +1,22 @@
 # Site navigation links
 
-- title: Home
+- title: About
   url: /
 
-
-- title: Projects
+- title: Hacks
   url: /projects/
 
-- title: Research 
-  url: /publications/
-
-- title: Coursework
+- title: Academia
   url: /coursework/
 
-- title: About
-  url: /about/
+- title: Patches
+  url: https://lore.kernel.org/lkml/?q=sibis@codeaurora
 
+- title: Lounge
+  url: https://lounge.sibisankar.me
 
-
-
-
+# Deprecated
+# - title: About
+#   url: /about/
+# - title: Research
+#   url: /publications/
